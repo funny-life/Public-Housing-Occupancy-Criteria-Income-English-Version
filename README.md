@@ -6,4 +6,4 @@ More and more foreigners from various countries are coming to Japan to work. The
 80% complete
 
 
-in preparation　×https://funny-life.github.io/Income-Criteria-for-Moving-into-Public-Housing-in-Japan/
+in preparation　https://funny-life.github.io/Public-Housing-Occupancy-Criteria-Income-English-Version/
